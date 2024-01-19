@@ -11,7 +11,7 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data from the API endpoint
       run: |-
-        curl -s "https://hub.docker.com/v2/repositories/dustynv/?page=1&page_size=1000" > dockerhub.json
+        curl -s "https://hub.docker.com/v2/repositories/dustynv/?page=1&page_size=1000" | jq '.results'> dockerhub.json
     - name: Commit and push if the data has changed
       run: |-
         git config user.name "Automated"

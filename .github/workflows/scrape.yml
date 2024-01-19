@@ -9,8 +9,6 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
-      with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
     - name: Fetch latest data from the API endpoint
       run: |-
         curl -s "https://hub.docker.com/v2/repositories/dustynv/?page=1&page_size=1000" > dockerhub.json

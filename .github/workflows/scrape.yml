@@ -2,7 +2,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '2,12,22,32,42,52 * * * *' # every 10 minutes for the initial test
+    - cron:  '2 * * * *' # every 1 hour for now
 jobs:
   scheduled:
     runs-on: ubuntu-latest

@@ -8,7 +8,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/jetson-inference",
     "is_private": false,
     "star_count": 12,
-    "pull_count": 54014,
+    "pull_count": 54017,
     "last_updated": "2023-12-19T17:30:07.691789Z",
     "date_registered": "2020-08-21T19:12:58.932679Z",
     "affiliation": "",
@@ -17,7 +17,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "ros",
@@ -28,7 +29,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/ros",
     "is_private": false,
     "star_count": 14,
-    "pull_count": 44131,
+    "pull_count": 44140,
     "last_updated": "2023-12-07T05:17:55.573994Z",
     "date_registered": "2021-05-27T15:33:50.988699Z",
     "affiliation": "",
@@ -37,7 +38,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "jetson-voice",
@@ -57,7 +59,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "l4t-ml",
@@ -77,7 +80,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "jetbot_ros",
@@ -97,7 +101,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "jetson-reinforcement",
@@ -117,7 +122,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "jetpack",
@@ -137,7 +143,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "l4t-pytorch",
@@ -148,7 +155,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/l4t/l4t-pytorch",
     "is_private": false,
     "star_count": 1,
-    "pull_count": 3457,
+    "pull_count": 3458,
     "last_updated": "2023-12-14T19:14:38.82433Z",
     "date_registered": "2022-09-20T16:32:06.539013Z",
     "affiliation": "",
@@ -157,7 +164,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "tritonserver",
@@ -177,7 +185,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "onnx",
@@ -197,7 +206,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "stable-diffusion",
@@ -217,7 +227,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "bitsandbytes",
@@ -228,7 +239,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/bitsandbytes",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 65,
+    "pull_count": 66,
     "last_updated": "2023-12-15T17:00:59.66053Z",
     "date_registered": "2023-07-29T14:46:19.365274Z",
     "affiliation": "",
@@ -237,7 +248,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "torchvision",
@@ -257,7 +269,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "torch2trt",
@@ -277,7 +290,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "torchaudio",
@@ -297,7 +311,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "tensorflow2",
@@ -317,7 +332,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "realsense",
@@ -337,7 +353,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "opencv_builder",
@@ -357,7 +374,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "zed",
@@ -377,7 +395,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "opencv",
@@ -397,7 +416,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "jupyterlab",
@@ -417,7 +437,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "transformers",
@@ -437,7 +458,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "cupy",
@@ -457,7 +479,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "numpy",
@@ -477,7 +500,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "protobuf",
@@ -497,7 +521,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "text-generation-inference",
@@ -517,7 +542,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "deepstream",
@@ -537,7 +563,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "cmake",
@@ -557,7 +584,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "numba",
@@ -577,7 +605,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "pycuda",
@@ -597,7 +626,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "gstreamer",
@@ -617,7 +647,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "pytorch",
@@ -637,7 +668,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "l4t-tensorflow",
@@ -657,7 +689,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "python",
@@ -677,7 +710,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "rust",
@@ -697,7 +731,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "bazel",
@@ -717,7 +752,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "build-essential",
@@ -737,7 +773,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "tensorflow",
@@ -757,7 +794,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "stable-diffusion-webui",
@@ -777,7 +815,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "onnxruntime",
@@ -797,7 +836,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "cuda-python",
@@ -817,7 +857,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "optimum",
@@ -837,7 +878,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "cudf",
@@ -857,7 +899,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "l4t-diffusion",
@@ -877,7 +920,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "auto-gptq",
@@ -897,7 +941,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "awq",
@@ -917,7 +962,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "nemo",
@@ -937,7 +983,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "cuml",
@@ -957,7 +1004,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "text-generation-webui",
@@ -977,7 +1025,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "gptq-for-llama",
@@ -997,7 +1046,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "exllama",
@@ -1017,7 +1067,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "l4t-text-generation",
@@ -1037,7 +1088,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "torch_tensorrt",
@@ -1057,7 +1109,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "xformers",
@@ -1077,7 +1130,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "huggingface_hub",
@@ -1097,7 +1151,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "auto_gptq",
@@ -1117,7 +1172,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "llama_cpp",
@@ -1128,7 +1184,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/llama_cpp",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 307,
+    "pull_count": 308,
     "last_updated": "2024-02-22T03:10:24.494357Z",
     "date_registered": "2023-08-10T04:50:42.507902Z",
     "affiliation": "",
@@ -1137,7 +1193,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "riva-client",
@@ -1157,7 +1214,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "llamaspeak",
@@ -1177,7 +1235,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "langchain",
@@ -1197,7 +1256,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "minigpt4",
@@ -1217,7 +1277,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "llava",
@@ -1237,7 +1298,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "mlc",
@@ -1257,7 +1319,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "local_llm",
@@ -1277,7 +1340,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "nanosam",
@@ -1297,7 +1361,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "sam",
@@ -1308,7 +1373,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/vit/sam",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 113,
+    "pull_count": 114,
     "last_updated": "2024-03-07T17:16:31.77315Z",
     "date_registered": "2023-10-01T02:56:05.162788Z",
     "affiliation": "",
@@ -1317,7 +1382,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "tam",
@@ -1337,7 +1403,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "faiss",
@@ -1357,7 +1424,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "nanodb",
@@ -1377,7 +1445,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "nanoowl",
@@ -1397,7 +1466,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "jetson-utils",
@@ -1417,7 +1487,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "efficientvit",
@@ -1437,7 +1508,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "audiocraft",
@@ -1457,7 +1529,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "whisper",
@@ -1477,7 +1550,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "cuda",
@@ -1497,7 +1571,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "cudnn",
@@ -1517,7 +1592,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "tensorrt",
@@ -1537,7 +1613,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "test",
@@ -1557,7 +1634,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "mmj",
@@ -1577,7 +1655,8 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   },
   {
     "name": "whisperx",
@@ -1597,6 +1676,7 @@
     ],
     "content_types": [
       "image"
-    ]
+    ],
+    "categories": []
   }
 ]

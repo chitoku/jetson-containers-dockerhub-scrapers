@@ -8,7 +8,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/jetson-inference",
     "is_private": false,
     "star_count": 13,
-    "pull_count": 55709,
+    "pull_count": 55710,
     "last_updated": "2023-12-19T17:30:07.691789Z",
     "date_registered": "2020-08-21T19:12:58.932679Z",
     "affiliation": "",
@@ -29,7 +29,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/ros",
     "is_private": false,
     "star_count": 14,
-    "pull_count": 47319,
+    "pull_count": 47320,
     "last_updated": "2023-12-07T05:17:55.573994Z",
     "date_registered": "2021-05-27T15:33:50.988699Z",
     "affiliation": "",
@@ -1752,7 +1752,7 @@
     "is_private": false,
     "star_count": 0,
     "pull_count": 8,
-    "last_updated": "2024-04-24T07:02:52.528796Z",
+    "last_updated": "2024-04-26T18:13:57.064595Z",
     "date_registered": "2024-04-10T04:03:40.711311Z",
     "affiliation": "",
     "media_types": [
@@ -1794,7 +1794,7 @@
     "is_private": false,
     "star_count": 0,
     "pull_count": 4,
-    "last_updated": "2024-04-23T21:30:39.266261Z",
+    "last_updated": "2024-04-26T18:15:09.75989Z",
     "date_registered": "2024-04-23T21:30:09.118403Z",
     "affiliation": "",
     "media_types": [
@@ -1815,7 +1815,7 @@
     "is_private": false,
     "star_count": 0,
     "pull_count": 3,
-    "last_updated": "2024-04-24T06:43:39.174609Z",
+    "last_updated": "2024-04-26T18:15:21.206441Z",
     "date_registered": "2024-04-24T06:43:09.130224Z",
     "affiliation": "",
     "media_types": [
@@ -1836,7 +1836,7 @@
     "is_private": false,
     "star_count": 0,
     "pull_count": 4,
-    "last_updated": "2024-04-24T07:06:42.155856Z",
+    "last_updated": "2024-04-26T18:13:56.016261Z",
     "date_registered": "2024-04-24T07:06:12.107524Z",
     "affiliation": "",
     "media_types": [

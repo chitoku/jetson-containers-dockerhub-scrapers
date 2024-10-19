@@ -30,7 +30,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/ros",
     "is_private": false,
     "star_count": 16,
-    "pull_count": 67906,
+    "pull_count": 67908,
     "last_updated": "2024-10-04T11:57:07.17469Z",
     "date_registered": "2021-05-27T15:33:50.988699Z",
     "affiliation": "",
@@ -899,7 +899,7 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 24053074622
+    "storage_size": 24053125708
   },
   {
     "name": "optimum",
@@ -1064,7 +1064,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/text-generation-webui",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 4375,
+    "pull_count": 4379,
     "last_updated": "2024-04-12T16:05:12.705996Z",
     "date_registered": "2023-07-29T21:36:00.496269Z",
     "affiliation": "",
@@ -1504,7 +1504,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/vectordb/nanodb",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 495,
+    "pull_count": 497,
     "last_updated": "2024-03-08T18:12:21.167796Z",
     "date_registered": "2023-10-06T01:35:08.793977Z",
     "affiliation": "",
@@ -1812,7 +1812,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/smart-home/homeassistant-core",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 85,
+    "pull_count": 86,
     "last_updated": "2024-04-26T18:10:18.269103Z",
     "date_registered": "2024-04-09T02:37:14.95932Z",
     "affiliation": "",
@@ -1834,7 +1834,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/smart-home/wyoming/openwakeword",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 113,
+    "pull_count": 114,
     "last_updated": "2024-04-30T15:16:53.137145Z",
     "date_registered": "2024-04-10T04:03:40.711311Z",
     "affiliation": "",

@@ -8,7 +8,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/jetson-inference",
     "is_private": false,
     "star_count": 15,
-    "pull_count": 68439,
+    "pull_count": 68440,
     "last_updated": "2024-06-20T18:13:48.684248Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2020-08-21T19:12:58.932679Z",
@@ -31,7 +31,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/ros",
     "is_private": false,
     "star_count": 17,
-    "pull_count": 77610,
+    "pull_count": 77617,
     "last_updated": "2024-11-21T17:59:44.170444Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2021-05-27T15:33:50.988699Z",
@@ -169,7 +169,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/l4t/l4t-pytorch",
     "is_private": false,
     "star_count": 3,
-    "pull_count": 20038,
+    "pull_count": 20046,
     "last_updated": "2024-12-18T16:34:53.913375Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2022-09-20T16:32:06.539013Z",
@@ -181,7 +181,7 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 62871671717
+    "storage_size": 65963258579
   },
   {
     "name": "tritonserver",
@@ -917,7 +917,7 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 26841656690
+    "storage_size": 32928678470
   },
   {
     "name": "cuda-python",
@@ -1112,7 +1112,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/text-generation-webui",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 6105,
+    "pull_count": 6108,
     "last_updated": "2024-04-12T16:05:12.705996Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2023-07-29T21:36:00.496269Z",
@@ -1607,7 +1607,7 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 83302683148
+    "storage_size": 91488371567
   },
   {
     "name": "jetson-utils",
@@ -1848,7 +1848,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/ollama",
     "is_private": false,
     "star_count": 2,
-    "pull_count": 8169,
+    "pull_count": 8171,
     "last_updated": "2024-12-12T09:47:36.256596Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2024-04-05T17:57:29.015737Z",
@@ -1860,7 +1860,7 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 28938812826
+    "storage_size": 35658107105
   },
   {
     "name": "piper-tts",
@@ -1952,7 +1952,7 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 138997906128
+    "storage_size": 152634953528
   },
   {
     "name": "wyoming-piper",
@@ -2101,7 +2101,7 @@
     "description": "",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 241,
+    "pull_count": 242,
     "last_updated": "2024-05-28T14:48:05.519632Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2024-05-28T09:45:36.115944Z",

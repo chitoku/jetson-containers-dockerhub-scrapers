@@ -8,7 +8,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/jetson-inference",
     "is_private": false,
     "star_count": 15,
-    "pull_count": 68436,
+    "pull_count": 68439,
     "last_updated": "2024-06-20T18:13:48.684248Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2020-08-21T19:12:58.932679Z",
@@ -31,7 +31,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/ros",
     "is_private": false,
     "star_count": 17,
-    "pull_count": 77598,
+    "pull_count": 77610,
     "last_updated": "2024-11-21T17:59:44.170444Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2021-05-27T15:33:50.988699Z",
@@ -77,7 +77,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/l4t/l4t-ml",
     "is_private": false,
     "star_count": 1,
-    "pull_count": 4711,
+    "pull_count": 4715,
     "last_updated": "2024-03-07T18:11:42.24451Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2021-06-29T16:47:41.794285Z",
@@ -169,7 +169,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/l4t/l4t-pytorch",
     "is_private": false,
     "star_count": 3,
-    "pull_count": 20037,
+    "pull_count": 20038,
     "last_updated": "2024-12-18T16:34:53.913375Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2022-09-20T16:32:06.539013Z",
@@ -457,7 +457,7 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 22825847774
+    "storage_size": 28622146483
   },
   {
     "name": "jupyterlab",
@@ -1308,7 +1308,7 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 41285374703
+    "storage_size": 45833819712
   },
   {
     "name": "riva-client",
@@ -1446,7 +1446,7 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 143006009942
+    "storage_size": 156199534047
   },
   {
     "name": "local_llm",
@@ -1848,7 +1848,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/ollama",
     "is_private": false,
     "star_count": 2,
-    "pull_count": 8162,
+    "pull_count": 8169,
     "last_updated": "2024-12-12T09:47:36.256596Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2024-04-05T17:57:29.015737Z",
@@ -1871,7 +1871,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/audio/piper-tts",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 263,
+    "pull_count": 264,
     "last_updated": "2024-04-07T20:41:43.482269Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2024-04-07T20:37:31.304566Z",
@@ -2101,7 +2101,7 @@
     "description": "",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 240,
+    "pull_count": 241,
     "last_updated": "2024-05-28T14:48:05.519632Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2024-05-28T09:45:36.115944Z",
@@ -2159,7 +2159,7 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 11813360466
+    "storage_size": 13890579199
   },
   {
     "name": "jetson-copilot",
@@ -2170,7 +2170,7 @@
     "description": "",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 879,
+    "pull_count": 880,
     "last_updated": "2024-10-13T08:19:03.169228Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2024-07-03T07:48:22.158141Z",
@@ -2182,7 +2182,7 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 20431646357
+    "storage_size": 25530233183
   },
   {
     "name": "holoscan",

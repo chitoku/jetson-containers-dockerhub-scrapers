@@ -31,7 +31,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/ros",
     "is_private": false,
     "star_count": 17,
-    "pull_count": 77590,
+    "pull_count": 77598,
     "last_updated": "2024-11-21T17:59:44.170444Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2021-05-27T15:33:50.988699Z",
@@ -77,7 +77,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/l4t/l4t-ml",
     "is_private": false,
     "star_count": 1,
-    "pull_count": 4710,
+    "pull_count": 4711,
     "last_updated": "2024-03-07T18:11:42.24451Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2021-06-29T16:47:41.794285Z",
@@ -882,7 +882,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/diffusion/stable-diffusion-webui",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 5181,
+    "pull_count": 5184,
     "last_updated": "2024-02-02T17:59:09.266539Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2023-07-29T16:39:33.03492Z",
@@ -1112,7 +1112,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/text-generation-webui",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 6103,
+    "pull_count": 6105,
     "last_updated": "2024-04-12T16:05:12.705996Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2023-07-29T21:36:00.496269Z",
@@ -1584,7 +1584,7 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 50086152307
+    "storage_size": 57764729411
   },
   {
     "name": "nanoowl",
@@ -1595,7 +1595,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/vit/nanoowl",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 2886,
+    "pull_count": 2892,
     "last_updated": "2024-10-31T17:44:30.25405Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2023-10-12T01:50:32.533221Z",
@@ -1733,7 +1733,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/cuda/cudnn",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 367,
+    "pull_count": 368,
     "last_updated": "2023-12-05T21:17:08.685172Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2023-12-05T21:17:08.62964Z",
@@ -1791,7 +1791,7 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 8005416609
+    "storage_size": 12962064065
   },
   {
     "name": "mmj",
@@ -1848,7 +1848,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/ollama",
     "is_private": false,
     "star_count": 2,
-    "pull_count": 8156,
+    "pull_count": 8162,
     "last_updated": "2024-12-12T09:47:36.256596Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2024-04-05T17:57:29.015737Z",
@@ -2262,7 +2262,7 @@
     "description": "",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 246,
+    "pull_count": 247,
     "last_updated": "2024-12-30T05:29:54.58333Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2024-08-24T02:50:23.925404Z",
@@ -2274,7 +2274,7 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 6320884358
+    "storage_size": 15389602207
   },
   {
     "name": "cu122",

@@ -20,7 +20,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 86158785088
+    "storage_size": 86158785088,
+    "source": null
   },
   {
     "name": "ros",
@@ -31,7 +32,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/ros",
     "is_private": false,
     "star_count": 19,
-    "pull_count": 110454,
+    "pull_count": 110455,
     "last_updated": "2025-03-03T01:21:32.463097Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2021-05-27T15:33:50.988699Z",
@@ -43,7 +44,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 272749666446
+    "storage_size": 272749666446,
+    "source": null
   },
   {
     "name": "jetson-voice",
@@ -66,7 +68,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 26255118185
+    "storage_size": 26255118185,
+    "source": null
   },
   {
     "name": "l4t-ml",
@@ -89,7 +92,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 79366239409
+    "storage_size": 79366239409,
+    "source": null
   },
   {
     "name": "jetbot_ros",
@@ -112,7 +116,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 13934908207
+    "storage_size": 13934908207,
+    "source": null
   },
   {
     "name": "jetson-reinforcement",
@@ -135,7 +140,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 16137988144
+    "storage_size": 16137988144,
+    "source": null
   },
   {
     "name": "jetpack",
@@ -158,7 +164,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 11592983652
+    "storage_size": 11592983652,
+    "source": null
   },
   {
     "name": "l4t-pytorch",
@@ -181,7 +188,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 65963258579
+    "storage_size": 65963258579,
+    "source": null
   },
   {
     "name": "tritonserver",
@@ -204,7 +212,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 35734243168
+    "storage_size": 35734243168,
+    "source": null
   },
   {
     "name": "onnx",
@@ -227,7 +236,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 17083739425
+    "storage_size": 17083739425,
+    "source": null
   },
   {
     "name": "stable-diffusion",
@@ -250,7 +260,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 35134651277
+    "storage_size": 35134651277,
+    "source": null
   },
   {
     "name": "bitsandbytes",
@@ -273,7 +284,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 30374306958
+    "storage_size": 30374306958,
+    "source": null
   },
   {
     "name": "torchvision",
@@ -284,7 +296,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/pytorch/torchvision",
     "is_private": false,
     "star_count": 2,
-    "pull_count": 5595,
+    "pull_count": 5596,
     "last_updated": "2025-04-02T10:42:12.901776Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2023-07-29T14:46:30.845134Z",
@@ -296,7 +308,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 37839472545
+    "storage_size": 37839472545,
+    "source": null
   },
   {
     "name": "torch2trt",
@@ -307,7 +320,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/pytorch/torch2trt",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 3275,
+    "pull_count": 3284,
     "last_updated": "2025-03-03T01:13:53.408779Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2023-07-29T14:51:50.0513Z",
@@ -319,7 +332,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 41276814127
+    "storage_size": 41276814127,
+    "source": null
   },
   {
     "name": "torchaudio",
@@ -342,7 +356,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 38600992437
+    "storage_size": 38600992437,
+    "source": null
   },
   {
     "name": "tensorflow2",
@@ -365,7 +380,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 29568613737
+    "storage_size": 29568613737,
+    "source": null
   },
   {
     "name": "realsense",
@@ -388,7 +404,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 25983206398
+    "storage_size": 25983206398,
+    "source": null
   },
   {
     "name": "opencv_builder",
@@ -411,7 +428,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 27663121499
+    "storage_size": 27663121499,
+    "source": null
   },
   {
     "name": "zed",
@@ -434,7 +452,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 18032694823
+    "storage_size": 18032694823,
+    "source": null
   },
   {
     "name": "opencv",
@@ -457,7 +476,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 39537580790
+    "storage_size": 39537580790,
+    "source": null
   },
   {
     "name": "jupyterlab",
@@ -468,7 +488,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/jupyterlab",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 3006,
+    "pull_count": 3010,
     "last_updated": "2025-03-10T19:06:22.429767Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2023-07-29T15:11:21.482992Z",
@@ -480,7 +500,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 34587989520
+    "storage_size": 34587989520,
+    "source": null
   },
   {
     "name": "transformers",
@@ -503,7 +524,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 58356351653
+    "storage_size": 58356351653,
+    "source": null
   },
   {
     "name": "cupy",
@@ -526,7 +548,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 23676336521
+    "storage_size": 23676336521,
+    "source": null
   },
   {
     "name": "numpy",
@@ -549,7 +572,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 16970476914
+    "storage_size": 16970476914,
+    "source": null
   },
   {
     "name": "protobuf",
@@ -572,7 +596,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 17650632373
+    "storage_size": 17650632373,
+    "source": null
   },
   {
     "name": "text-generation-inference",
@@ -595,7 +620,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 55585540346
+    "storage_size": 55585540346,
+    "source": null
   },
   {
     "name": "deepstream",
@@ -606,7 +632,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/deepstream",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 1351,
+    "pull_count": 1353,
     "last_updated": "2024-03-06T18:31:59.759224Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2023-07-29T15:38:04.767778Z",
@@ -618,7 +644,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 54913805816
+    "storage_size": 54913805816,
+    "source": null
   },
   {
     "name": "cmake",
@@ -641,7 +668,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 16857299668
+    "storage_size": 16857299668,
+    "source": null
   },
   {
     "name": "numba",
@@ -664,7 +692,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 21516047088
+    "storage_size": 21516047088,
+    "source": null
   },
   {
     "name": "pycuda",
@@ -687,7 +716,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 22847637582
+    "storage_size": 22847637582,
+    "source": null
   },
   {
     "name": "gstreamer",
@@ -710,7 +740,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 24172769273
+    "storage_size": 24172769273,
+    "source": null
   },
   {
     "name": "pytorch",
@@ -721,7 +752,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/pytorch",
     "is_private": false,
     "star_count": 6,
-    "pull_count": 21732,
+    "pull_count": 21737,
     "last_updated": "2025-04-18T15:11:33.975555Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2023-07-29T15:45:47.232709Z",
@@ -733,7 +764,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 77627598676
+    "storage_size": 77627598676,
+    "source": null
   },
   {
     "name": "l4t-tensorflow",
@@ -756,7 +788,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 33609587774
+    "storage_size": 33609587774,
+    "source": null
   },
   {
     "name": "python",
@@ -779,7 +812,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 16582387539
+    "storage_size": 16582387539,
+    "source": null
   },
   {
     "name": "rust",
@@ -802,7 +836,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 18773264850
+    "storage_size": 18773264850,
+    "source": null
   },
   {
     "name": "bazel",
@@ -825,7 +860,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 17025368311
+    "storage_size": 17025368311,
+    "source": null
   },
   {
     "name": "build-essential",
@@ -848,7 +884,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 16280209268
+    "storage_size": 16280209268,
+    "source": null
   },
   {
     "name": "tensorflow",
@@ -871,7 +908,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 21405329188
+    "storage_size": 21405329188,
+    "source": null
   },
   {
     "name": "stable-diffusion-webui",
@@ -882,7 +920,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/diffusion/stable-diffusion-webui",
     "is_private": false,
     "star_count": 1,
-    "pull_count": 12654,
+    "pull_count": 12655,
     "last_updated": "2025-04-22T04:10:35.401098Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2023-07-29T16:39:33.03492Z",
@@ -894,7 +932,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 106087764711
+    "storage_size": 106087764711,
+    "source": null
   },
   {
     "name": "onnxruntime",
@@ -905,7 +944,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/onnxruntime",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 2262,
+    "pull_count": 2265,
     "last_updated": "2025-03-03T03:26:08.003281Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2023-07-29T17:11:01.693711Z",
@@ -917,7 +956,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 44611840207
+    "storage_size": 44611840207,
+    "source": null
   },
   {
     "name": "cuda-python",
@@ -940,7 +980,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 26519310312
+    "storage_size": 26519310312,
+    "source": null
   },
   {
     "name": "optimum",
@@ -963,7 +1004,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 51895082978
+    "storage_size": 51895082978,
+    "source": null
   },
   {
     "name": "cudf",
@@ -986,7 +1028,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 29552535647
+    "storage_size": 29552535647,
+    "source": null
   },
   {
     "name": "l4t-diffusion",
@@ -1009,7 +1052,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 73863618263
+    "storage_size": 73863618263,
+    "source": null
   },
   {
     "name": "auto-gptq",
@@ -1032,7 +1076,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 19806277088
+    "storage_size": 19806277088,
+    "source": null
   },
   {
     "name": "awq",
@@ -1055,7 +1100,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 55894062921
+    "storage_size": 55894062921,
+    "source": null
   },
   {
     "name": "nemo",
@@ -1078,7 +1124,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 79809903470
+    "storage_size": 79809903470,
+    "source": null
   },
   {
     "name": "cuml",
@@ -1101,7 +1148,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 28838965776
+    "storage_size": 28838965776,
+    "source": null
   },
   {
     "name": "text-generation-webui",
@@ -1124,7 +1172,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 74865638848
+    "storage_size": 74865638848,
+    "source": null
   },
   {
     "name": "gptq-for-llama",
@@ -1147,7 +1196,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 38387041564
+    "storage_size": 38387041564,
+    "source": null
   },
   {
     "name": "exllama",
@@ -1170,7 +1220,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 32857888127
+    "storage_size": 32857888127,
+    "source": null
   },
   {
     "name": "l4t-text-generation",
@@ -1193,7 +1244,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 85864563800
+    "storage_size": 85864563800,
+    "source": null
   },
   {
     "name": "torch_tensorrt",
@@ -1216,7 +1268,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 28594204962
+    "storage_size": 28594204962,
+    "source": null
   },
   {
     "name": "xformers",
@@ -1239,7 +1292,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 24342995567
+    "storage_size": 24342995567,
+    "source": null
   },
   {
     "name": "huggingface_hub",
@@ -1262,7 +1316,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 16608056100
+    "storage_size": 16608056100,
+    "source": null
   },
   {
     "name": "auto_gptq",
@@ -1285,7 +1340,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 42396946410
+    "storage_size": 42396946410,
+    "source": null
   },
   {
     "name": "llama_cpp",
@@ -1308,7 +1364,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 70613730037
+    "storage_size": 70613730037,
+    "source": null
   },
   {
     "name": "riva-client",
@@ -1331,7 +1388,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 26135317720
+    "storage_size": 26135317720,
+    "source": null
   },
   {
     "name": "llamaspeak",
@@ -1354,7 +1412,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 16149595064
+    "storage_size": 16149595064,
+    "source": null
   },
   {
     "name": "langchain",
@@ -1377,7 +1436,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 39335934278
+    "storage_size": 39335934278,
+    "source": null
   },
   {
     "name": "minigpt4",
@@ -1400,7 +1460,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 36921503819
+    "storage_size": 36921503819,
+    "source": null
   },
   {
     "name": "llava",
@@ -1423,7 +1484,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 40164694249
+    "storage_size": 40164694249,
+    "source": null
   },
   {
     "name": "mlc",
@@ -1434,7 +1496,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/mlc",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 10739,
+    "pull_count": 10740,
     "last_updated": "2025-05-02T13:14:20.250684Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2023-09-15T00:32:47.97793Z",
@@ -1446,7 +1508,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 165544347002
+    "storage_size": 165544347002,
+    "source": null
   },
   {
     "name": "local_llm",
@@ -1469,7 +1532,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 142079127702
+    "storage_size": 142079127702,
+    "source": null
   },
   {
     "name": "nanosam",
@@ -1492,7 +1556,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 39697650875
+    "storage_size": 39697650875,
+    "source": null
   },
   {
     "name": "sam",
@@ -1515,7 +1580,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 38774473798
+    "storage_size": 38774473798,
+    "source": null
   },
   {
     "name": "tam",
@@ -1538,7 +1604,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 48437767445
+    "storage_size": 48437767445,
+    "source": null
   },
   {
     "name": "faiss",
@@ -1561,7 +1628,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 30747610764
+    "storage_size": 30747610764,
+    "source": null
   },
   {
     "name": "nanodb",
@@ -1572,7 +1640,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/vectordb/nanodb",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 8162,
+    "pull_count": 8165,
     "last_updated": "2025-01-14T15:28:25.7808Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2023-10-06T01:35:08.793977Z",
@@ -1584,7 +1652,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 57764729411
+    "storage_size": 57764729411,
+    "source": null
   },
   {
     "name": "nanoowl",
@@ -1607,7 +1676,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 101638582153
+    "storage_size": 101638582153,
+    "source": null
   },
   {
     "name": "jetson-utils",
@@ -1630,7 +1700,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 20353725904
+    "storage_size": 20353725904,
+    "source": null
   },
   {
     "name": "efficientvit",
@@ -1653,7 +1724,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 30958457648
+    "storage_size": 30958457648,
+    "source": null
   },
   {
     "name": "audiocraft",
@@ -1676,7 +1748,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 66246816027
+    "storage_size": 66246816027,
+    "source": null
   },
   {
     "name": "whisper",
@@ -1699,7 +1772,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 26076018211
+    "storage_size": 26076018211,
+    "source": null
   },
   {
     "name": "cuda",
@@ -1722,7 +1796,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 14299019440
+    "storage_size": 14299019440,
+    "source": null
   },
   {
     "name": "cudnn",
@@ -1745,7 +1820,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 5292888277
+    "storage_size": 5292888277,
+    "source": null
   },
   {
     "name": "tensorrt",
@@ -1768,7 +1844,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 7152385535
+    "storage_size": 7152385535,
+    "source": null
   },
   {
     "name": "test",
@@ -1791,7 +1868,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 12962064065
+    "storage_size": 12962064065,
+    "source": null
   },
   {
     "name": "mmj",
@@ -1814,7 +1892,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 8573177065
+    "storage_size": 8573177065,
+    "source": null
   },
   {
     "name": "whisperx",
@@ -1837,7 +1916,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 15593546109
+    "storage_size": 15593546109,
+    "source": null
   },
   {
     "name": "ollama",
@@ -1848,7 +1928,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/ollama",
     "is_private": false,
     "star_count": 8,
-    "pull_count": 66530,
+    "pull_count": 66556,
     "last_updated": "2025-07-07T16:22:32.627198Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2024-04-05T17:57:29.015737Z",
@@ -1860,7 +1940,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 94016843575
+    "storage_size": 94016843575,
+    "source": null
   },
   {
     "name": "piper-tts",
@@ -1883,7 +1964,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 25804575023
+    "storage_size": 25804575023,
+    "source": null
   },
   {
     "name": "homeassistant-core",
@@ -1906,7 +1988,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 12997787153
+    "storage_size": 12997787153,
+    "source": null
   },
   {
     "name": "wyoming-openwakeword",
@@ -1917,7 +2000,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/smart-home/wyoming/openwakeword",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 8002,
+    "pull_count": 8004,
     "last_updated": "2024-04-30T15:16:53.137145Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2024-04-10T04:03:40.711311Z",
@@ -1929,7 +2012,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 5894209031
+    "storage_size": 5894209031,
+    "source": null
   },
   {
     "name": "nano_llm",
@@ -1940,7 +2024,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/nano_llm",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 49331,
+    "pull_count": 49339,
     "last_updated": "2024-10-15T04:03:34.382399Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2024-04-13T19:51:14.342744Z",
@@ -1952,7 +2036,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 152634953528
+    "storage_size": 152634953528,
+    "source": null
   },
   {
     "name": "wyoming-piper",
@@ -1963,7 +2048,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/smart-home/wyoming/piper",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 9274,
+    "pull_count": 9279,
     "last_updated": "2024-04-30T16:08:07.890587Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2024-04-23T21:30:09.118403Z",
@@ -1975,7 +2060,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 17614454111
+    "storage_size": 17614454111,
+    "source": null
   },
   {
     "name": "wyoming-whisper",
@@ -1986,7 +2072,7 @@
     "description": "https://github.com/dusty-nv/jetson-containers/packages/smart-home/wyoming/wyoming-whisper",
     "is_private": false,
     "star_count": 0,
-    "pull_count": 11968,
+    "pull_count": 11971,
     "last_updated": "2024-12-20T10:56:31.293842Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2024-04-24T06:43:09.130224Z",
@@ -1998,7 +2084,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 15118148089
+    "storage_size": 15118148089,
+    "source": null
   },
   {
     "name": "wyoming-assist-microphone",
@@ -2021,7 +2108,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 5916960932
+    "storage_size": 5916960932,
+    "source": null
   },
   {
     "name": "llama-index",
@@ -2044,7 +2132,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 27342897392
+    "storage_size": 27342897392,
+    "source": null
   },
   {
     "name": "voicecraft",
@@ -2067,7 +2156,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 14667651947
+    "storage_size": 14667651947,
+    "source": null
   },
   {
     "name": "jetrag",
@@ -2090,7 +2180,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 22554610385
+    "storage_size": 22554610385,
+    "source": null
   },
   {
     "name": "whisper_trt",
@@ -2113,7 +2204,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 7554742196
+    "storage_size": 7554742196,
+    "source": null
   },
   {
     "name": "xtts",
@@ -2136,7 +2228,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 8065826774
+    "storage_size": 8065826774,
+    "source": null
   },
   {
     "name": "llama-factory",
@@ -2159,7 +2252,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 20393663556
+    "storage_size": 20393663556,
+    "source": null
   },
   {
     "name": "jetson-copilot",
@@ -2182,7 +2276,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 25530233183
+    "storage_size": 25530233183,
+    "source": null
   },
   {
     "name": "holoscan",
@@ -2205,7 +2300,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 7454256641
+    "storage_size": 7454256641,
+    "source": null
   },
   {
     "name": "openvla",
@@ -2228,7 +2324,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 14951186829
+    "storage_size": 14951186829,
+    "source": null
   },
   {
     "name": "openai-triton",
@@ -2251,7 +2348,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 6007200803
+    "storage_size": 6007200803,
+    "source": null
   },
   {
     "name": "comfyui",
@@ -2262,7 +2360,7 @@
     "description": "",
     "is_private": false,
     "star_count": 1,
-    "pull_count": 3450,
+    "pull_count": 3452,
     "last_updated": "2025-07-02T17:37:08.598066Z",
     "last_modified": "2024-10-16T13:48:34.145251Z",
     "date_registered": "2024-08-24T02:50:23.925404Z",
@@ -2274,7 +2372,8 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 45535453245
+    "storage_size": 45535453245,
+    "source": null
   },
   {
     "name": "cu122",
@@ -2297,6 +2396,7 @@
       "image"
     ],
     "categories": [],
-    "storage_size": 3787332272
+    "storage_size": 3787332272,
+    "source": null
   }
 ]

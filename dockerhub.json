@@ -1,0 +1,2402 @@
+[
+  {
+    "name": "jetson-inference",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/jetson-inference",
+    "is_private": false,
+    "star_count": 16,
+    "pull_count": 83615,
+    "last_updated": "2024-06-20T18:13:48.684248Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2020-08-21T19:12:58.932679Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 86158785088,
+    "source": null
+  },
+  {
+    "name": "ros",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/ros",
+    "is_private": false,
+    "star_count": 21,
+    "pull_count": 115206,
+    "last_updated": "2025-03-03T01:21:32.463097Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2021-05-27T15:33:50.988699Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 272749666446,
+    "source": null
+  },
+  {
+    "name": "jetson-voice",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "",
+    "is_private": false,
+    "star_count": 1,
+    "pull_count": 3653,
+    "last_updated": "2022-03-10T17:15:17.627397Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2021-06-08T19:38:43.458058Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 26255118185,
+    "source": null
+  },
+  {
+    "name": "l4t-ml",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/l4t/l4t-ml",
+    "is_private": false,
+    "star_count": 2,
+    "pull_count": 13331,
+    "last_updated": "2025-04-18T08:41:25.579784Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2021-06-29T16:47:41.794285Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 79366239409,
+    "source": null
+  },
+  {
+    "name": "jetbot_ros",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "",
+    "is_private": false,
+    "star_count": 1,
+    "pull_count": 1479,
+    "last_updated": "2021-10-18T21:08:45.772463Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2021-07-09T19:10:29.152817Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 13934908207,
+    "source": null
+  },
+  {
+    "name": "jetson-reinforcement",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 163,
+    "last_updated": "2022-01-27T20:39:26.801793Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2022-01-06T21:03:18.256418Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 16137988144,
+    "source": null
+  },
+  {
+    "name": "jetpack",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "",
+    "is_private": false,
+    "star_count": 1,
+    "pull_count": 93,
+    "last_updated": "2022-06-23T21:58:06.30167Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2022-06-23T21:57:14.481143Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 11592983652,
+    "source": null
+  },
+  {
+    "name": "l4t-pytorch",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/l4t/l4t-pytorch",
+    "is_private": false,
+    "star_count": 9,
+    "pull_count": 50396,
+    "last_updated": "2024-12-18T16:34:53.913375Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2022-09-20T16:32:06.539013Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 65963258579,
+    "source": null
+  },
+  {
+    "name": "tritonserver",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/tritonserver",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 1238,
+    "last_updated": "2024-02-27T04:13:11.628049Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T02:03:29.640082Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 35734243168,
+    "source": null
+  },
+  {
+    "name": "onnx",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/onnx",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 127,
+    "last_updated": "2023-12-12T01:32:19.807998Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T14:42:38.980374Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 17083739425,
+    "source": null
+  },
+  {
+    "name": "stable-diffusion",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/diffusion/stable-diffusion",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 932,
+    "last_updated": "2023-12-15T18:13:55.002654Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T14:43:47.711192Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 35134651277,
+    "source": null
+  },
+  {
+    "name": "bitsandbytes",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/bitsandbytes",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 965,
+    "last_updated": "2025-03-03T14:05:19.851283Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T14:46:19.365274Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 30374306958,
+    "source": null
+  },
+  {
+    "name": "torchvision",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/pytorch/torchvision",
+    "is_private": false,
+    "star_count": 2,
+    "pull_count": 5683,
+    "last_updated": "2025-04-02T10:42:12.901776Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T14:46:30.845134Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 37839472545,
+    "source": null
+  },
+  {
+    "name": "torch2trt",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/pytorch/torch2trt",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 4801,
+    "last_updated": "2025-03-03T01:13:53.408779Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T14:51:50.0513Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 41276814127,
+    "source": null
+  },
+  {
+    "name": "torchaudio",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/pytorch/torchaudio",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 711,
+    "last_updated": "2025-04-02T10:42:52.358968Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T14:52:46.939684Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 38600992437,
+    "source": null
+  },
+  {
+    "name": "tensorflow2",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/tensorflow",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 697,
+    "last_updated": "2023-12-06T21:20:29.464664Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T14:54:52.821325Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 29568613737,
+    "source": null
+  },
+  {
+    "name": "realsense",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/hardware/realsense",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 444,
+    "last_updated": "2024-02-22T16:52:50.334721Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T15:02:14.881139Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 25983206398,
+    "source": null
+  },
+  {
+    "name": "opencv_builder",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/opencv/opencv_builder",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 209,
+    "last_updated": "2023-10-07T16:56:52.10831Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T15:05:40.42507Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 27663121499,
+    "source": null
+  },
+  {
+    "name": "zed",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/hardware/zed",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 230,
+    "last_updated": "2023-12-11T02:12:13.506376Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T15:08:33.258214Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 18032694823,
+    "source": null
+  },
+  {
+    "name": "opencv",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/opencv",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 3880,
+    "last_updated": "2025-04-21T06:53:26.37108Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T15:09:26.544492Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 39537580790,
+    "source": null
+  },
+  {
+    "name": "jupyterlab",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/jupyterlab",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 4803,
+    "last_updated": "2025-03-10T19:06:22.429767Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T15:11:21.482992Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 34587989520,
+    "source": null
+  },
+  {
+    "name": "transformers",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/transformers",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 2226,
+    "last_updated": "2023-12-15T19:32:14.581906Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T15:14:39.246649Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 58356351653,
+    "source": null
+  },
+  {
+    "name": "cupy",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/cuda/cupy",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 216,
+    "last_updated": "2025-03-03T03:16:12.753031Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T15:15:20.180515Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 23676336521,
+    "source": null
+  },
+  {
+    "name": "numpy",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/numpy",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 108,
+    "last_updated": "2023-12-06T01:58:37.350525Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T15:16:42.689802Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 16970476914,
+    "source": null
+  },
+  {
+    "name": "protobuf",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/build/protobuf/protobuf_apt",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 87,
+    "last_updated": "2023-12-06T20:20:37.540987Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T15:34:20.30757Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 17650632373,
+    "source": null
+  },
+  {
+    "name": "text-generation-inference",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/text-generation-inference",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 733,
+    "last_updated": "2023-11-05T05:25:11.854697Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T15:34:36.498605Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 55585540346,
+    "source": null
+  },
+  {
+    "name": "deepstream",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/deepstream",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 1500,
+    "last_updated": "2024-03-06T18:31:59.759224Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T15:38:04.767778Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 54913805816,
+    "source": null
+  },
+  {
+    "name": "cmake",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/build/cmake/cmake_apt",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 135,
+    "last_updated": "2023-12-06T00:01:16.752074Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T15:38:44.913048Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 16857299668,
+    "source": null
+  },
+  {
+    "name": "numba",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/numba",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 107,
+    "last_updated": "2023-12-06T16:50:46.42418Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T15:40:00.202791Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 21516047088,
+    "source": null
+  },
+  {
+    "name": "pycuda",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/cuda/pycuda",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 597,
+    "last_updated": "2025-03-03T03:15:23.712389Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T15:40:25.183933Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 22847637582,
+    "source": null
+  },
+  {
+    "name": "gstreamer",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/gstreamer",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 456,
+    "last_updated": "2023-12-07T03:06:44.093375Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T15:42:41.264382Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 24172769273,
+    "source": null
+  },
+  {
+    "name": "pytorch",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/pytorch",
+    "is_private": false,
+    "star_count": 6,
+    "pull_count": 26334,
+    "last_updated": "2025-04-18T15:11:33.975555Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T15:45:47.232709Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 77627598676,
+    "source": null
+  },
+  {
+    "name": "l4t-tensorflow",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/l4t/l4t-tensorflow",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 1661,
+    "last_updated": "2023-12-06T21:29:17.203436Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T16:03:34.585745Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 33609587774,
+    "source": null
+  },
+  {
+    "name": "python",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/build/python",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 181,
+    "last_updated": "2023-12-05T22:05:56.062955Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T16:03:49.859268Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 16582387539,
+    "source": null
+  },
+  {
+    "name": "rust",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/build/rust",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 89,
+    "last_updated": "2023-12-06T00:07:06.957605Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T16:07:46.696609Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 18773264850,
+    "source": null
+  },
+  {
+    "name": "bazel",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/build/bazel",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 40,
+    "last_updated": "2023-10-07T13:14:13.246638Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T16:10:39.44138Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 17025368311,
+    "source": null
+  },
+  {
+    "name": "build-essential",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/build/build-essential",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 233,
+    "last_updated": "2023-10-07T13:41:32.326446Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T16:13:04.329487Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 16280209268,
+    "source": null
+  },
+  {
+    "name": "tensorflow",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/tensorflow",
+    "is_private": false,
+    "star_count": 1,
+    "pull_count": 353,
+    "last_updated": "2023-12-06T21:21:47.085633Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T16:15:22.173213Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 21405329188,
+    "source": null
+  },
+  {
+    "name": "stable-diffusion-webui",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/diffusion/stable-diffusion-webui",
+    "is_private": false,
+    "star_count": 1,
+    "pull_count": 13826,
+    "last_updated": "2025-04-22T04:10:35.401098Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T16:39:33.03492Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 106087764711,
+    "source": null
+  },
+  {
+    "name": "onnxruntime",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/onnxruntime",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 2946,
+    "last_updated": "2025-03-03T03:26:08.003281Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T17:11:01.693711Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 44611840207,
+    "source": null
+  },
+  {
+    "name": "cuda-python",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/cuda/cuda-python",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 972,
+    "last_updated": "2025-03-03T03:14:19.516641Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T18:05:10.627452Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 26519310312,
+    "source": null
+  },
+  {
+    "name": "optimum",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/optimum",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 417,
+    "last_updated": "2023-12-15T18:18:32.925913Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T18:11:37.609669Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 51895082978,
+    "source": null
+  },
+  {
+    "name": "cudf",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/rapids/cudf",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 397,
+    "last_updated": "2023-12-06T01:45:15.80059Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T18:29:42.942302Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 29552535647,
+    "source": null
+  },
+  {
+    "name": "l4t-diffusion",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/l4t/l4t-diffusion",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 547,
+    "last_updated": "2024-02-02T18:02:23.887004Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T18:41:01.66123Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 73863618263,
+    "source": null
+  },
+  {
+    "name": "auto-gptq",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/auto-gptq",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 314,
+    "last_updated": "2023-08-07T16:14:46.031789Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T19:06:09.847511Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 19806277088,
+    "source": null
+  },
+  {
+    "name": "awq",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/awq",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 1466,
+    "last_updated": "2025-02-02T12:39:38.361407Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T19:19:07.988013Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 55894062921,
+    "source": null
+  },
+  {
+    "name": "nemo",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/nemo",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 928,
+    "last_updated": "2023-12-15T21:22:21.109595Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T20:02:09.106718Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 79809903470,
+    "source": null
+  },
+  {
+    "name": "cuml",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/rapids/cuml",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 816,
+    "last_updated": "2023-10-07T13:43:26.591764Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T21:28:48.111891Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 28838965776,
+    "source": null
+  },
+  {
+    "name": "text-generation-webui",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/text-generation-webui",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 9682,
+    "last_updated": "2024-04-12T16:05:12.705996Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T21:36:00.496269Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 74865638848,
+    "source": null
+  },
+  {
+    "name": "gptq-for-llama",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/gptq-for-llama",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 303,
+    "last_updated": "2024-01-02T03:36:00.619111Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T21:47:03.817636Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 38387041564,
+    "source": null
+  },
+  {
+    "name": "exllama",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/exllama",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 529,
+    "last_updated": "2023-12-15T18:54:02.26626Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T21:51:15.511199Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 32857888127,
+    "source": null
+  },
+  {
+    "name": "l4t-text-generation",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/l4t/l4t-text-generation",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 960,
+    "last_updated": "2024-03-12T18:37:09.982055Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-29T22:23:51.988014Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 85864563800,
+    "source": null
+  },
+  {
+    "name": "torch_tensorrt",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/pytorch/torch_tensorrt",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 1681,
+    "last_updated": "2023-12-14T18:35:33.249358Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-07-30T19:52:20.331625Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 28594204962,
+    "source": null
+  },
+  {
+    "name": "xformers",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/xformers",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 350,
+    "last_updated": "2024-01-09T06:23:30.208341Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-08-04T03:04:47.704977Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 24342995567,
+    "source": null
+  },
+  {
+    "name": "huggingface_hub",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/huggingface_hub",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 277,
+    "last_updated": "2023-12-15T17:27:49.260423Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-08-06T01:50:30.98697Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 16608056100,
+    "source": null
+  },
+  {
+    "name": "auto_gptq",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/auto_gptq",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 569,
+    "last_updated": "2023-12-15T18:21:44.065793Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-08-07T21:17:52.848397Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 42396946410,
+    "source": null
+  },
+  {
+    "name": "llama_cpp",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/llama_cpp",
+    "is_private": false,
+    "star_count": 4,
+    "pull_count": 65331,
+    "last_updated": "2025-05-06T06:10:18.588554Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-08-10T04:50:42.507902Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 70613730037,
+    "source": null
+  },
+  {
+    "name": "riva-client",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/audio/riva-client",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 585,
+    "last_updated": "2024-03-11T17:39:55.376159Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-08-10T21:02:27.857086Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 26135317720,
+    "source": null
+  },
+  {
+    "name": "llamaspeak",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/llamaspeak",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 463,
+    "last_updated": "2023-12-05T23:52:25.603336Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-08-29T17:35:15.193017Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 16149595064,
+    "source": null
+  },
+  {
+    "name": "langchain",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/rag/langchain",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 1398,
+    "last_updated": "2024-03-07T18:21:29.183739Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-08-30T15:48:44.941675Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 39335934278,
+    "source": null
+  },
+  {
+    "name": "minigpt4",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/minigpt4",
+    "is_private": false,
+    "star_count": 1,
+    "pull_count": 932,
+    "last_updated": "2023-12-15T19:01:09.568906Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-09-02T19:45:56.763216Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 36921503819,
+    "source": null
+  },
+  {
+    "name": "llava",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/llava",
+    "is_private": false,
+    "star_count": 2,
+    "pull_count": 2226,
+    "last_updated": "2023-12-18T19:10:03.72061Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-09-04T21:48:45.917726Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 40164694249,
+    "source": null
+  },
+  {
+    "name": "mlc",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/mlc",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 11805,
+    "last_updated": "2025-05-02T13:14:20.250684Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-09-15T00:32:47.97793Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 165544347002,
+    "source": null
+  },
+  {
+    "name": "local_llm",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/local_llm",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 2750,
+    "last_updated": "2024-04-10T23:14:48.010289Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-09-20T02:46:47.596757Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 142079127702,
+    "source": null
+  },
+  {
+    "name": "nanosam",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/vit/nanosam",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 2265,
+    "last_updated": "2023-12-15T18:44:53.371766Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-10-01T02:23:25.242807Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 39697650875,
+    "source": null
+  },
+  {
+    "name": "sam",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/vit/sam",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 1090,
+    "last_updated": "2024-03-07T17:16:31.77315Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-10-01T02:56:05.162788Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 38774473798,
+    "source": null
+  },
+  {
+    "name": "tam",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/vit/tam",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 753,
+    "last_updated": "2024-03-07T17:03:22.362256Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-10-03T02:01:44.800863Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 48437767445,
+    "source": null
+  },
+  {
+    "name": "faiss",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/vectordb/faiss",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 549,
+    "last_updated": "2024-03-26T19:41:27.040178Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-10-06T01:20:28.823246Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 30747610764,
+    "source": null
+  },
+  {
+    "name": "nanodb",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/vectordb/nanodb",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 11052,
+    "last_updated": "2025-01-14T15:28:25.7808Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-10-06T01:35:08.793977Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 57764729411,
+    "source": null
+  },
+  {
+    "name": "nanoowl",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/vit/nanoowl",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 9824,
+    "last_updated": "2025-02-07T23:33:09.288472Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-10-12T01:50:32.533221Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 101638582153,
+    "source": null
+  },
+  {
+    "name": "jetson-utils",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/jetson-utils",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 397,
+    "last_updated": "2024-02-24T03:35:17.67825Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-10-12T21:30:41.33454Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 20353725904,
+    "source": null
+  },
+  {
+    "name": "efficientvit",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/vit/efficientvit",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 1011,
+    "last_updated": "2024-03-07T18:25:35.807277Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-11-04T18:04:26.323761Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 30958457648,
+    "source": null
+  },
+  {
+    "name": "audiocraft",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/audio/audiocraft",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 1372,
+    "last_updated": "2024-06-08T15:32:56.953753Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-11-04T18:53:13.748312Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 66246816027,
+    "source": null
+  },
+  {
+    "name": "whisper",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/audio/whisper",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 3061,
+    "last_updated": "2024-03-07T16:40:51.158944Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-11-05T01:13:25.068034Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 26076018211,
+    "source": null
+  },
+  {
+    "name": "cuda",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/cuda/cuda",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 506,
+    "last_updated": "2025-04-02T13:03:23.170948Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-12-05T20:54:35.708474Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 14299019440,
+    "source": null
+  },
+  {
+    "name": "cudnn",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/cuda/cudnn",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 623,
+    "last_updated": "2023-12-05T21:17:08.685172Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-12-05T21:17:08.62964Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 5292888277,
+    "source": null
+  },
+  {
+    "name": "tensorrt",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/tensorrt",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 561,
+    "last_updated": "2023-12-05T22:57:21.454438Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2023-12-05T22:57:21.401307Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 7152385535,
+    "source": null
+  },
+  {
+    "name": "test",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 186,
+    "last_updated": "2024-12-18T09:49:33.862673Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2024-01-09T19:55:20.413418Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 12962064065,
+    "source": null
+  },
+  {
+    "name": "mmj",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 410,
+    "last_updated": "2024-01-19T17:50:37.731564Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2024-01-19T17:50:37.663681Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 8573177065,
+    "source": null
+  },
+  {
+    "name": "whisperx",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/audio/whisperx",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 729,
+    "last_updated": "2024-01-19T18:56:57.873772Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2024-01-19T18:31:40.928596Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 15593546109,
+    "source": null
+  },
+  {
+    "name": "ollama",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/ollama",
+    "is_private": false,
+    "star_count": 8,
+    "pull_count": 80593,
+    "last_updated": "2025-07-07T16:22:32.627198Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2024-04-05T17:57:29.015737Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 94016843575,
+    "source": null
+  },
+  {
+    "name": "piper-tts",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/audio/piper-tts",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 1237,
+    "last_updated": "2025-03-03T03:31:16.535949Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2024-04-07T20:37:31.304566Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 25804575023,
+    "source": null
+  },
+  {
+    "name": "homeassistant-core",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/smart-home/homeassistant-core",
+    "is_private": false,
+    "star_count": 1,
+    "pull_count": 798,
+    "last_updated": "2024-12-20T03:23:21.442485Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2024-04-09T02:37:14.95932Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 12997787153,
+    "source": null
+  },
+  {
+    "name": "wyoming-openwakeword",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/smart-home/wyoming/openwakeword",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 9998,
+    "last_updated": "2024-04-30T15:16:53.137145Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2024-04-10T04:03:40.711311Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 5894209031,
+    "source": null
+  },
+  {
+    "name": "nano_llm",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/llm/nano_llm",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 58275,
+    "last_updated": "2024-10-15T04:03:34.382399Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2024-04-13T19:51:14.342744Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 152634953528,
+    "source": null
+  },
+  {
+    "name": "wyoming-piper",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/smart-home/wyoming/piper",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 14118,
+    "last_updated": "2024-04-30T16:08:07.890587Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2024-04-23T21:30:09.118403Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 17614454111,
+    "source": null
+  },
+  {
+    "name": "wyoming-whisper",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/smart-home/wyoming/wyoming-whisper",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 14827,
+    "last_updated": "2024-12-20T10:56:31.293842Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2024-04-24T06:43:09.130224Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 15118148089,
+    "source": null
+  },
+  {
+    "name": "wyoming-assist-microphone",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/smart-home/wyoming/assist-microphone",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 726,
+    "last_updated": "2024-04-30T15:36:15.022049Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2024-04-24T07:06:12.107524Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 5916960932,
+    "source": null
+  },
+  {
+    "name": "llama-index",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/rag/llama-index",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 929,
+    "last_updated": "2024-06-25T21:36:37.61799Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2024-04-25T17:58:48.647975Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 27342897392,
+    "source": null
+  },
+  {
+    "name": "voicecraft",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "https://github.com/dusty-nv/jetson-containers/packages/audio/voicecraft",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 817,
+    "last_updated": "2024-06-08T16:19:57.154391Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2024-05-02T13:16:03.69529Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 14667651947,
+    "source": null
+  },
+  {
+    "name": "jetrag",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 376,
+    "last_updated": "2024-06-26T03:20:50.944779Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2024-05-23T03:25:01.742053Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 22554610385,
+    "source": null
+  },
+  {
+    "name": "whisper_trt",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 1054,
+    "last_updated": "2024-05-28T14:48:05.519632Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2024-05-28T09:45:36.115944Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 7554742196,
+    "source": null
+  },
+  {
+    "name": "xtts",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 433,
+    "last_updated": "2024-06-19T21:26:09.832318Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2024-06-19T21:26:09.706234Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 8065826774,
+    "source": null
+  },
+  {
+    "name": "llama-factory",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 1345,
+    "last_updated": "2025-03-11T14:43:55.312779Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2024-06-30T23:59:29.438223Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 20393663556,
+    "source": null
+  },
+  {
+    "name": "jetson-copilot",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 2210,
+    "last_updated": "2024-10-13T08:19:03.169228Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2024-07-03T07:48:22.158141Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 25530233183,
+    "source": null
+  },
+  {
+    "name": "holoscan",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 82,
+    "last_updated": "2024-07-03T21:36:27.100833Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2024-07-03T21:36:27.039202Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 7454256641,
+    "source": null
+  },
+  {
+    "name": "openvla",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 628,
+    "last_updated": "2025-02-27T12:46:27.886065Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2024-07-25T00:18:03.491469Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 14951186829,
+    "source": null
+  },
+  {
+    "name": "openai-triton",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 99,
+    "last_updated": "2024-08-22T03:34:51.054783Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2024-08-22T03:34:50.987364Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 6007200803,
+    "source": null
+  },
+  {
+    "name": "comfyui",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "",
+    "is_private": false,
+    "star_count": 1,
+    "pull_count": 3872,
+    "last_updated": "2025-07-02T17:37:08.598066Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2024-08-24T02:50:23.925404Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 45535453245,
+    "source": null
+  },
+  {
+    "name": "cu122",
+    "namespace": "dustynv",
+    "repository_type": "image",
+    "status": 1,
+    "status_description": "active",
+    "description": "",
+    "is_private": false,
+    "star_count": 0,
+    "pull_count": 21,
+    "last_updated": "2024-09-02T05:47:17.557503Z",
+    "last_modified": "2024-10-16T13:48:34.145251Z",
+    "date_registered": "2024-09-02T05:47:17.498025Z",
+    "affiliation": "",
+    "media_types": [
+      "application/vnd.docker.container.image.v1+json"
+    ],
+    "content_types": [
+      "image"
+    ],
+    "categories": [],
+    "storage_size": 3787332272,
+    "source": null
+  }
+]
